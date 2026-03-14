@@ -1,0 +1,9 @@
+buatkan sebuah program dengan bahasa pemograman C, yang casenya adalah membuat sebuah struk pembayaran yang outputnya adalah Kota tujuan, Berat paket Butet, Berat paket Ucok, Total berat, Total ongkos kirim, Informasi promo yang diperoleh, struk ini mili layanan Del-Express, di layanan ini daftar ongkosya adalah: Medan kodenya MDN, ongkkos kirim 8.000, keterangan Dalam pulau, Balige kodenya BLG, ongkos kirimnya 5.000, keterangan dalam pulau, Jakarta kodenya JKT, ongkosnya 12.000, keterangan Luar Pulau, dan Surabaya kodenya SBY, ongkosnya 13.000, keterangan Luar Pulau, lalu ada promo ongkir lebaran, syaratnya Total berat pengiriman lebih dari 10 kg mendapatkan diskon 10%, lalu pengiriman ke kota luar pulau mendapatkan asuransi gratis, inputannya adalah kode kota tujuan, berat paket, dan sistem akan menghitung biaya pengiriman termasuk berat paketnya, outputnya nanti adalah Struk Pembayaran yang terdiri dari:
+Kota tujuan,
+Berat paket Butet,
+Berat paket Ucok,
+Total berat,
+Total ongkos kirim,
+Informasi promo yang diperoleh
+ada info tambahan, disoal dibuat ada perbedaan ukuran dus yang digunakan, dimana dus butet 1kg dan ucok 3/2 berat paket butet, tolong pahami info tambahan ini.
+kerjakan dengan bahasa pemograman C, saya memakai Windows 11 dan mingw64, outputnya berupa struk dan isi struknya seperti output yang saya berikan tadi, tidak ada batasan untuk kodenya gunakan library umum seperti stdio.h namun jika ada library tambahan buatkan dan tambahkan penjelasan untuk apa libraty itu, buatkan full code dan buat logic dan code penyelesaiannya, aggap dirimu sebagai mahasiswa semester 2 yang mengerjaka tugas yang diberikan oleh asdos matakuliah pemograman, buatkan juga loopingan agar program berhenti meminta submit jika di input kalimat END

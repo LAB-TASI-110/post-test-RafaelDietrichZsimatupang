@@ -1,0 +1,6 @@
+buatkan sebuah program untuk menentukan total stok hanya untuk kategori barang yang diminta, inputnya adalah 
+Jumlah total data (N).
+Deret stok (s1, s2, ..., sN).
+Kode kategori barang.
+ini adalah ilustrasi pola penyimpanan dan pengelompokannya, pahami gambar ini, 
+kerjakan dengan bahasa pemograman C, saya memakai Windows 11 dan mingw64, tidak ada batasan untuk kodenya gunakan library umum seperti stdio.h namun jika ada library tambahan buatkan dan tambahkan penjelasan untuk apa library itu, buatkan full code dan buat logic dan code penyelesaiannya, aggap dirimu sebagai mahasiswa semester 2 yang mengerjakan tugas yang diberikan oleh asdos matakuliah pemograman,
